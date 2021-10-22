@@ -1,0 +1,88 @@
+
+.container {
+    /* position: relative; */
+    padding: 10% 0;
+}
+
+.input-group {
+    height: 50px;
+}
+
+h1 {
+    color: #fff;
+    padding-bottom: 50px;
+}
+
+.input-group span {
+    width: 120px;
+    font-weight: bold;
+}
+
+.form-control{
+    border-radius: 5px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.form-group{
+    text-align: left;
+    flex-direction: row;
+    display: flex;
+    padding: 20px;
+    /* text-justify:inherit; */
+    /* vertical-align: baseline; */
+}
+
+.card-body{
+    background-color: rgba(236, 97, 220, 0.4);
+    min-width: 80%;
+    vertical-align: middle;
+    border-radius: 10px;
+    padding: 90px 20px;
+    font-size: 18px;
+}
+
+.card-body:hover {
+    background-color: rgba(232, 70, 213, 0.5);
+}
+
+span {
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.button {
+    width: 250px;
+    height: 60px;
+    margin-top: 50px;
+    background-color: rgba(223, 20, 122, 1);
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+.button:hover {
+    background-color: rgb(241, 11, 126);
+    font-size: 25x;
+
+}
+
+h3 {
+    font-size: 25px;
+}
+
+input:hover {
+    background-color: rgba(202, 199, 202, 0.5);
+}
+
+.showPwd {
+    display: flex;
+    background-color: #fff;
+    justify-content: flex-start;  
+    margin-bottom: 10px;  
+}
+
+p {
+    font-size: 20px;
+}

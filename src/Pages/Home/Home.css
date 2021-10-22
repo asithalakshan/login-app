@@ -1,0 +1,66 @@
+.containerr{
+    text-align: center;
+    justify-content: center;
+    /* display: flex; */
+    margin: 40px 0;
+}
+
+.navBar {
+    /* display: flex; */
+    text-align: right;
+    margin: 50px;
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    margin-top: 50px;
+    background-color: rgba(223, 20, 122, 1);
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+button:hover {
+    background-color: rgb(241, 11, 126);
+    font-size: 25x;
+
+}
+
+.contentCard {
+    display: flex;
+    justify-content: center;
+}
+.content{
+    color: #fff;
+    margin: 50px 20px;
+    padding: 50px;
+    border: 1px solid rgba(143, 127, 127, 0.8);
+    border-radius: 10px;
+    max-width: 1500px;
+}
+
+.content:hover{
+    background-color: rgba(134, 77, 130, 0.5);
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 30px;
+    padding: 30px;
+}
+.logo {
+    margin: 20px;
+}
+
+.userInput {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    color: black;
+    font-size: 20px;
+}
